@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn articles into 5-8 knowledge cards"
+  default_prompt: "Use $skill-name to convert this article into 5-8 knowledge cards."
